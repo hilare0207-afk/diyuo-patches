@@ -1,0 +1,13 @@
+DIYUO 自動更新入口安裝
+
+1. 先正常關閉 CUO 和 Razor。
+2. 雙擊 DIYUO-AutoUpdate-Setup.exe。
+3. 選擇你原本能玩遊戲的 CUO 資料夾，裡面要有 ClassicUO.exe。
+   這裡選 CUO 程式資料夾，不是含 tiledata.mul 的 UO 圖檔資料夾。
+4. 按「安裝更新入口」。
+5. 以後點桌面「DIYUO 自動更新登入」，檢查完成會自動開遊戲。
+
+不必重新設定帳號、IP、Port、巨集或 Razor 個人設定。
+這是替既有 CUO 加入更新入口，不含完整 UO 遊戲圖檔。
+若仍直接開 ClassicUO.exe 或官方 ClassicUOLauncher.exe，會跳過這個補丁檢查。
+更新失敗時會顯示原因並停止；請把訊息提供管理員。
